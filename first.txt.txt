@@ -1,4 +1,8 @@
 This is new file for remote repository. 
-new changes for command prompt.
+<<<<<<< HEAD
 practice file to connect local and remote repository
 
+=======
+changes for my project
+>>>>>>> 323aa2b2113c3b280b53edbea9a0a7c4b9d9882c
+updated now
