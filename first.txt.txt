@@ -5,3 +5,5 @@ practice file to connect local and remote repository
 changes for my project
 
 updated now
+
+all the changes on remote repository are submitted to terminal
